@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-  /*** Centre elements w/o width settings***/
+  /* Centre elements w/o width settings */
   font-family: 'Merriweather', sans-serif;
 }
 
@@ -29,7 +29,7 @@ h1 {
   color: #66BFBF;
   width: 50%;
   margin: 0 auto 0 auto;
-  /*** horizontal centering***/
+  /* horizontal centering*/
   font-size: 400%;
   font-family: 'Sacramento', cursive;
 }
@@ -50,6 +50,9 @@ div {
   background-color: #fcf8ec;
 }
 
+img:hover{
+  animation: shake 0.5s;
+}
 .top-container {
   background-color: #d0e8f2;
   position: relative;
@@ -78,7 +81,7 @@ div {
 
 .copyright{
   color: #EAF6F6;
-  font-size: 0.8rem;   /***1 rem is 16px***/
+  font-size: 0.8rem;   /*1 rem is 16px*/
   padding: 50px 0;
 }
 
