@@ -51,7 +51,7 @@ div {
 }
 
 img:hover {
-  animation: shake 1s;
+  animation: shake 2s;
 }
 
 @keyframes shake {
