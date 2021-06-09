@@ -28,7 +28,7 @@ a:hover{
 h1 {
   color: #66BFBF;
   width: 50%;
-  margin: 0 auto 30px auto;
+  margin: 0 auto 0 auto;
   /* horizontal centering*/
   font-size: 400%;
   font-family: 'Sacramento', cursive;
@@ -40,7 +40,7 @@ h3.ml8 {
   color: #fff;
   width: 3em;
   height: 3em;
-  margin: 0 auto 50px auto;
+  margin: 0 auto 0 auto;
 
 }
 
