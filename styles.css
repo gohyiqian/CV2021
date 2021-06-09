@@ -28,18 +28,20 @@ a:hover{
 h1 {
   color: #66BFBF;
   width: 50%;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 30px auto;
   /* horizontal centering*/
   font-size: 400%;
   font-family: 'Sacramento', cursive;
 }
 
-h1.ml8 {
+h3.ml8 {
   font-weight: 900;
   font-size: 4.5em;
   color: #fff;
   width: 3em;
   height: 3em;
+  margin: 0 auto 50px auto;
+
 }
 
 .ml8 .letters-container {
