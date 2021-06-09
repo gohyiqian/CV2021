@@ -88,7 +88,7 @@ h3.ml8 {
 .ml8 .circle-dark {
   width: 2.2em;
   height: 2.2em;
-  background-color: #4f7b86;
+  background-color: #11999E;
   border-radius: 3em;
   z-index: 1;
 }
@@ -139,7 +139,7 @@ img:hover {
   background-color: #d0e8f2;
   position: relative;
   padding-top: 10px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .top-container {
